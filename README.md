@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Unknownflow
-- 👀 I’m interested in Data Science and Machine Learning.
+- 👀 I’m interested in programming.
 - 🌱 I’m currently learning Python and some other languages.
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: message me on GitHub
