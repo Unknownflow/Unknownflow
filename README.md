@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Unknownflow
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning Python and some other languages.
+- 🌱 I’m currently learning Python, SQL, MongoDB.
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: message me on GitHub
 
