@@ -1,13 +1,13 @@
 <h1>Unknownflow</h1>
 
 **About me**
-- 👋 I’m <a href="https://github.com/Unknownflow" target="_blank">@Unknownflow</a> and I am currently a broke student.
+- 👋 I’m <a href="https://github.com/Unknownflow">@Unknownflow</a> and I am currently a broke student.
 - 🌱 I’m currently learning Python, Flask, SQL and MongoDB.
 - 📚 Dabbles with frontend, backend for fun
 <br/>
 
 <p> 
-  Please check out this <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">link</a>!!! 😃
+  Please check out this <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">link</a>!!! 😃
 </p>
 <br/>
 
@@ -17,7 +17,7 @@
 <br/>
 
 <p>
-  <a href="https://github.com/Unknownflow" target="_blank">Github</a> | <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="_blank">Click Me!!!</a>
+  <a href="https://github.com/Unknownflow">Github</a> | <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Click Me!!!</a>
 </p>
 
 <!--
