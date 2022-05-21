@@ -6,18 +6,13 @@
 - 📚 Dabbles with frontend, backend for fun
 <br/>
 
-<p> 
-  Please check out this <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">link</a>!!! 😃
-</p>
-<br/>
-
 <p align="left">
   <a href="https://github.com/Unknownflow"><img src="https://github-readme-stats.vercel.app/api?username=Unknownflow&hide_border=true&show_icons=true" alt="Unknownflow's github stats"></a>
 </p>
 <br/>
 
 <p>
-  <a href="https://github.com/Unknownflow">Github</a> | <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">Click Me!!!</a>
+  <a href="https://github.com/Unknownflow">Github</a> | <a href="http://unknownflow.github.io/">My Github Website</a>
 </p>
 
 <!--
