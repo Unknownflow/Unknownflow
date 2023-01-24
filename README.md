@@ -2,7 +2,7 @@
 
 **About me**
 - 👋 I’m <a href="https://github.com/Unknownflow">@Unknownflow</a> and I am currently a broke student.
-- 🌱 I’m currently learning Python, Flask, SQL and MongoDB.
+- 🌱 I’m currently learning Python, Flask, SQL, MongoDB, React, HTML, CSS, Javascript.
 - 📚 Dabbles with frontend, backend for fun
 <br/>
 
