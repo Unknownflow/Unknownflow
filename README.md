@@ -1,31 +1,5 @@
-<h1>Unknownflow</h1>
+I am Clarence, a graduate of Nanyang Junior College. I am intending to pursue NUS Computer Science in 2025 and I am currently serving my National Service. I am a tech enthusiast who is willing to pick up new technologies to enhance my competencies in the field. I have experience using Python, Javascript, HTML, CSS, ReactJS and NextJS thus far and I am currently looking for more opportunities to enhance my knowledge.
 
-**About me**
-- 👋 I’m <a href="https://github.com/Unknownflow">@Unknownflow</a> and I am currently a broke student.
-- 🌱 I’m currently learning Python, Flask, SQL, MongoDB, React, HTML, CSS, Javascript.
-- 📚 Dabbles with frontend, backend for fun
-<br/>
-
-<p align="left">
-  <a href="https://github.com/Unknownflow"><img src="https://github-readme-stats.vercel.app/api?username=Unknownflow&hide_border=true&show_icons=true" alt="Unknownflow's github stats"></a>
-</p>
-<br/>
-
-<p>
-  <a href="https://github.com/Unknownflow">Github</a> | <a href="http://unknownflow.github.io/">My Github Website</a>
-</p>
-
-<!--
-**Unknownflow/Unknownflow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Connect with me:
+- LinkedIn: https://www.linkedin.com/in/clarence88
+- Github: https://github.com/Unknownflow
